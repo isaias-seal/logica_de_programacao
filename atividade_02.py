@@ -7,7 +7,7 @@ multiplicacao = n1 * n2
 divisao = n1 / n2
 resto = n1 % n2
 
-# saidad de dados
+# saida de dados
 print(f"Soma: {soma}")
 print(f"Subtração: {subtracao}")
 print(f"Fmultiplicação: {multiplicacao}")

@@ -6,7 +6,7 @@ telefone = input("informe seu telefone: ").strip()
 idade = int(("ifoeme sua idade"))
 altura = float(input("infoeme sua altura:").replace(",","."))
 
-# ebtrada de dados
+# saida de dados
 print(f"Nome: (nome)")
 print(f"E-mail: {email}")
 print(f"CPF: {cpf}")
